@@ -1,0 +1,7 @@
+# IntellijIdea files
+.idea/
+gulpfile.js
+package.json
+libs/
+samples/
+yarn.lock
